@@ -1,0 +1,35 @@
+header{
+    background-color: #ECD509;
+    padding: 9px;
+    text-align: center;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px; 
+}
+
+.flex_container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+section{
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.img{
+    border-radius: 50px;
+}
+
+body{ 
+    margin: 0px;
+}
+
+footer{
+    background-color: #ECD509;
+    color: #ECD509;
+    padding: 9px;
+}
