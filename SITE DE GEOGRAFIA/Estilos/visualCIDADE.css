@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding-bottom: 0px;
+}
+
+.pai{
+    display: grid;
+    grid-template-columns:189px 1fr;
+    height: 100vh;
+}
